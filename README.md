@@ -41,6 +41,5 @@ https://pwa-text-editor-1.herokuapp.com/ - Deployed page to heroku
 ## Contributors
 
 - Darren Medrono
-- Study Groups
 - Michael Smith
 - Harrison Boatman
